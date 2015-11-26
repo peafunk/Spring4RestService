@@ -24,7 +24,7 @@ public class Spring4RestServiceController {
 	@Autowired
 	Spring4RestServiceImpl Spring4RestServiceImpl;
 	@Autowired
-	spring4restHealthCheckerImpl spring4restHealthCheckerImpl;
+	Spring4RestHealthCheckerImpl spring4restHealthCheckerImpl;
 	
 	/**
 	 * Health check
